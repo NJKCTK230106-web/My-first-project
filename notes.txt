@@ -1,1 +1,5 @@
 Linux commands I learned.
+pwd
+ls
+cd
+mkdir
